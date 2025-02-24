@@ -55,7 +55,7 @@ rainy,75.0,80.0,false,yes
 ### OUTPUT:
 * Training Data Set -> Employee Table
  ![image](https://github.com/user-attachments/assets/7b5fa57d-274a-4910-8f3d-c78f439c58a0)
-*Training data set -> Weather Table![image](https://github.com/user-attachments/assets/e88a92c8-e94f-4131-abd2-96bae24740ec)
+* Training data set -> Weather Table![image](https://github.com/user-attachments/assets/e88a92c8-e94f-4131-abd2-96bae24740ec)
 
 
 
